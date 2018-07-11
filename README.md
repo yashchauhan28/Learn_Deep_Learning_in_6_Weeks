@@ -28,6 +28,7 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 - Watch my videos on recurrent networks, [here](https://www.youtube.com/watch?v=BwmddtPFWtA&t=4s), [here](https://www.youtube.com/watch?v=cdLUzrjnlr4), and [here](https://www.youtube.com/watch?v=9zhrxE5PQgY&t=25s)
 - Read Trask's blogpost on LSTM RNNs found [here](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 - Write out a simple RNN yourself (using no ML libraries)
+- Follow this link too https://github.com/yashchauhan28/Learn_Deep_Learning_in_6_Weeks.git
 
 ## Week 4 - Tooling
 
